@@ -1,0 +1,14 @@
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.GeneratedMSBuildEditorConfig.editorconfig
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.AssemblyInfoInputs.cache
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.AssemblyInfo.cs
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.csproj.CoreCompileInputs.cache
+F:\games\Wpostman\bin\Debug\net9.0\Wpostman.exe
+F:\games\Wpostman\bin\Debug\net9.0\Wpostman.deps.json
+F:\games\Wpostman\bin\Debug\net9.0\Wpostman.runtimeconfig.json
+F:\games\Wpostman\bin\Debug\net9.0\Wpostman.dll
+F:\games\Wpostman\bin\Debug\net9.0\Wpostman.pdb
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.dll
+F:\games\Wpostman\obj\Debug\net9.0\refint\Wpostman.dll
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.pdb
+F:\games\Wpostman\obj\Debug\net9.0\Wpostman.genruntimeconfig.cache
+F:\games\Wpostman\obj\Debug\net9.0\ref\Wpostman.dll
