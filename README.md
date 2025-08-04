@@ -33,7 +33,8 @@ Every day, mysterious letters arrive — **can you match them to their rightful 
    dotnet run
    ```
 4. **Read the hints → Guess the receiver → Deliver the letter!**
-P. S. You need C# Dev kit extension and SDK.NET (version 9.0) installed in your vscode to play this.
+
+> **P. S.** You need C# Dev kit extension and SDK.NET (version 9.0) installed in your vscode to play this.
 
 ---
 
